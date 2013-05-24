@@ -27,7 +27,7 @@ The student will:
 * save files to correct folders using deliberate naming conventions;
 * navigate digital storage to retrieve assignments;
 * maintain organized backpack, locker, and desk;
-* Identify and articulate effective, personal study rituals and environment characteristics;
+* identify and articulate effective, personal study rituals and environment characteristics;
 * strategically create and maintain a quiet, well-organized study environment that suits her individual needs;
 
 Technology
@@ -35,7 +35,7 @@ Technology
 
 The student will:
 
-* PLACEHOLDER
+* develop digital literacy to empower their learning.
 
 Objectives
 ----------
@@ -54,7 +54,7 @@ Semantic Maps
 
 The student will:
 
-* PLACEHOLDER
+* idenfity and strategically use semantic maps to produce effective work.
 
 Objectives
 ----------
@@ -73,7 +73,7 @@ Assessment Preparation
 
 The student will:
 
-* PLACEHOLDER
+* develop and practice strategies to produce effective assessments.
 
 Objectives
 ----------
@@ -85,7 +85,11 @@ The student will:
 * articulate and practice strategic approaches to binary choice assessments;
 * articulate and practice strategic approaches to constructed response assessments;
 * rely on teacher-assigned checklists and rubrics to produce project assessments;
-* Identify benchmarks and create and maintain a schedule to prepare appropriately for summative assessments;
+* identify benchmarks and create and maintain a schedule to prepare appropriately for summative assessments;
+* stystematically and routinely review notes and handouts;
+* create and utilize interactive study-aids to prepare for assessments;
+* identify and utilize text features [gloassaries, charts...] to aid in understanding of material;
+* identify and articulate the purposes of charts, graphs and illustrations in texts and assessments
  
 
 
