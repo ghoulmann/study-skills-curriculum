@@ -54,7 +54,7 @@ Semantic Maps
 
 The student will:
 
-* idenfity and strategically use semantic maps to produce effective work.
+* identify and strategically use semantic maps to produce effective work.
 
 Objectives
 ----------
@@ -86,9 +86,9 @@ The student will:
 * articulate and practice strategic approaches to constructed response assessments;
 * rely on teacher-assigned checklists and rubrics to produce project assessments;
 * identify benchmarks and create and maintain a schedule to prepare appropriately for summative assessments;
-* stystematically and routinely review notes and handouts;
+* systematically and routinely review notes and handouts;
 * create and utilize interactive study-aids to prepare for assessments;
-* identify and utilize text features [gloassaries, charts...] to aid in understanding of material;
+* identify and utilize text features [glossaries, charts...] to aid in understanding of material;
 * identify and articulate the purposes of charts, graphs and illustrations in texts and assessments
  
 
