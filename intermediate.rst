@@ -33,6 +33,7 @@ The student will:
 
 * effectively use the learning tools of a learning management system, such as quizzes, forums and lessons [Moodle];
 * when appropriate, contribute to the development of a learning management system [Moodle];
+* when absent from class, access class material and homework from a learning management system [Moodle];
 * navigate and personalize an online portfolio [Mahara];
 * effectively scan and save files to a format compatible with text-to-speech applications [Kurzweil];
 * effectively use the graphic organizers and outlines of text-to-speech applications to discover, develop and organize ideas for drafting [Kurzweil]
@@ -61,13 +62,14 @@ The student will:
 * rely on graphic organizers and outlines to organize longer writing assignments;
 * rely on semantic maps to take notes for longer writing assignments;
 * rely on semantic maps to format writing assignments including works cited pages;
+* review class notes on a daily basis formulating questions to address in class as needed;
 
 Assessments
 ===========
 
 The student will:
-
-* PLACEHOLDER
+ 
+* develop and practice strategies to produce effective assessments.
 
 Objectives
 __________
@@ -81,3 +83,4 @@ The student will:
 * using teacher provided rubrics, self-grade and if warranted modify assessments before turning them in;
 * given formative feedback and opportunity, substantively edit and revise all assessments;
 * utilize the resources of a learning management system to effectively prepare for assessments [Moodle];
+* utilize assistive technology during assessments;
