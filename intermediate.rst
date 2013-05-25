@@ -36,7 +36,7 @@ The student will:
 * when absent from class, access class material and homework from a learning management system [Moodle];
 * navigate and personalize an online portfolio [Mahara];
 * effectively scan and save files to a format compatible with text-to-speech applications [Kurzweil];
-* effectively use the graphic organizers and outlines of text-to-speech applications to discover, develop and organize ideas for drafting [Kurzweil]
+* effectively use the graphic organizers and outlines of text-to-speech applications to discover, develop and organize ideas for drafting [Kurzweil];
 * effectively use speech-to-text applications to discover, develop and organize ideas for writing [Dragon Naturally Speaking];
 * navigate online applications to aid in the formatting of works cited pages;
 * effectively use filters, key words and reading levels to improve online research;
@@ -59,8 +59,8 @@ The student will:
 * self-select semantic maps to internalize relationships between concepts;
 * self-select semantic maps to express relationships between concepts;
 * self-select semantic maps to discover, develop, and organize ideas for writing;
-* rely on graphic organizers and outlines to organize longer writing assignments;
-* rely on semantic maps to take notes for longer writing assignments;
+* rely on graphic organizers and outlines to plan longer writing assignments;
+* rely on semantic maps to produce effective notes for longer writing assignments;
 * rely on semantic maps to format writing assignments including works cited pages;
 * review class notes on a daily basis formulating questions to address in class as needed;
 
