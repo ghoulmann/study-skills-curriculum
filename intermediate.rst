@@ -77,7 +77,7 @@ __________
 The student will:
 
 * take learning style inventories and incorporate the results into assessment preparation;
-* create a list of best practices for their indiviudal study and assessment needs;
+* create a list of best practices for their individual study and assessment needs;
 * use specific language based on their learning weaknesses and strengths to advocate with teachers;
 * articulate and practice strategic approaches to extended writing assessments;
 * using teacher provided rubrics, self-grade and if warranted modify assessments before turning them in;
