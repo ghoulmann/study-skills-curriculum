@@ -4,8 +4,12 @@ Preface
 Problem
 =======
 
+Basic organziation and study skills are not directly taught to students setting the students up for academic stress and possibly failure.
+
 Rationale
 =========
+
+The key to creating acadmeically successful and independent students depends on students building a repository of self-sufficient study skills which can be utlized across the curriculum.
 
 Values
 ======
